@@ -14,3 +14,6 @@ def multiplicar(n1,n2):
 
 def mensaje3():
     print("Estoy en la rama facundo.canepa ahora con github")
+
+def mensaje4():
+    print("Es una locuraaaaaaaaaaaa")
